@@ -15,4 +15,5 @@ I got inspired from the Babi dataset from Facebook research and have used as an 
 
 ## Example picture of the program running
 
-![toy-spaCy](https://github.com/tickBit/Toy-spacY-experiment/assets/61118857/fef6d1f0-ef27-4fc6-b213-55e7b7e2ec3f)
+![toy-spaCy](https://github.com/tickBit/Toy-spacY-experiment/assets/61118857/48fa9f61-4be3-42a5-9a97-10045673e5e8)
+
