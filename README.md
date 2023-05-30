@@ -9,6 +9,8 @@ You'll need to have the spaCy module installed. In this project "en_core_web_lg"
 - Give a story to the system and ask "where" questions about the objects in the story
 - The system understands only few verbs: go, travel, move, leave, drop, leave, get and take. Also the past tense of those verbs.
 
+The system's ability to "understand" anything, is very limited.
+
 I got inspired from the Babi dataset from Facebook research and have used as an example story the following: *Mary moved to the bathroom. Sandra took the apple. Mary went to the hallway. Mary got the milk. John moved to the bedroom. Mary dropped the milk. John took the milk. John moved to the kitchen. Sandra went to the bedroom.*
 
 ## Example picture of the program running
