@@ -80,5 +80,13 @@ while True:
                             obj = w.text
                             object[obj] = subj
 
+        # if a person has an object, but no place, the object is "nowhere"
+        for p in object:
+            try:
+                if place[object[qst_obj]] == None:
+                    place[object[qst_obj]] = "NOWHERE"
+            except:
+                place[object[qst_obj]] = "NOWHERE"
+
         print(f"Answer: Object {qst_obj.upper()} is in the", place[object[qst_obj]].upper(), f"with person {object[qst_obj].upper()}")
     print()
