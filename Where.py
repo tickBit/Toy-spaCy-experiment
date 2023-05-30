@@ -8,6 +8,7 @@ def get_question_object(question):
 
     return doc[0].text
 
+
 while True:
 
     context = input("Enter story: (press enter for default story) \n")
